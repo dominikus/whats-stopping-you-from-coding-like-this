@@ -2,8 +2,8 @@
 
 A Chrome extension that lets you unleash your inner POWER DEVELOPER.
 
-Since we all know that the only thing that defines our values as human beings and
-provides a reason for our existence is the number of version-managed commits we made
+Since we all know that the only thing that defines our value as human beings and
+provides a reason for our continued existence is the number of version-managed commits we made
 on a specific website, What's Stopping You From Coding Like This (WSYFCLT) let's you
 improve your commit history so you too can be a valuable member of human society.
 
