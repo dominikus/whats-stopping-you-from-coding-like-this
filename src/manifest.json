@@ -1,0 +1,26 @@
+{
+    "name": "What's Stopping You From Coding Like This",
+    "version": "0.9000",
+    "description": "Reach your wildest dreams as a developer",
+    "permissions": ["activeTab", "declarativeContent"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "page_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/flex16.png",
+        "32": "images/flex32.png",
+        "48": "images/flex48.png",
+        "128": "images/flex128.png"
+      }
+    },
+    "icons": {
+      "16": "images/flex16.png",
+      "32": "images/flex32.png",
+      "48": "images/flex48.png",
+      "128": "images/flex128.png"
+    },
+    "manifest_version": 2
+  }
