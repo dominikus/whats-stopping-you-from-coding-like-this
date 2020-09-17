@@ -19,5 +19,7 @@ improve your commit history so you too can be a valuable member of human society
 6. Click on the 'Extensions' icon in the extension toolbar and pin the extension to it.
 7. Go to your Github.com profile - you should see a powerful purple flex icon in your extension toolbar.
 8. Click it and select appropriate skill level:
+
 ![do it](docs/popup.png)
+
 9. Bask in your own glory 🤩
