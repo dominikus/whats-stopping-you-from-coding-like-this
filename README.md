@@ -16,7 +16,8 @@ improve your commit history so you too can be a valuable member of human society
 3. Go to Chrome Extensions [chrome://extensions](chrome://extensions)
 4. Enable 'Developer Mode' on the top-right if you haven't yet (what kind of developer are you even??)
 5. Click on 'Load Unpacked' and navigate to your favorite folder.
-6. Go to your Github.com profile - you should see a powerful purple flex icon in your extension toolbar.
-7. Click it and select appropriate skill level:
+6. Click on the 'Extensions' icon in the extension toolbar and pin the extension to it.
+7. Go to your Github.com profile - you should see a powerful purple flex icon in your extension toolbar.
+8. Click it and select appropriate skill level:
 ![do it](docs/popup.png)
-8. Bask in your own glory 🤩
+9. Bask in your own glory 🤩
