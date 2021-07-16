@@ -3,14 +3,14 @@ const code = `function startDeveloping(level) {
   const DEFAULT_CONTRIBUTION_SIZE = 38;
   const colorScale = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"];
 
-  const allBoxes = document.querySelectorAll("rect.day");
+  const allBoxes = document.querySelectorAll("rect.ContributionCalendar-day");
   allBoxes.forEach((box) => {
     let contributionColor = Math.round(Math.random());
     contributionColor = Math.min(
       colorScale.length - 1,
       contributionColor + level
     );
-    box.setAttribute("fill", colorScale[contributionColor]);
+    box.style.fill = colorScale[contributionColor];
   });
 
   const possibleContributionLabels = document.querySelectorAll(
